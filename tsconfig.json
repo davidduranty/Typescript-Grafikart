@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target":"ESNext",
+        "noEmitOnError": false,
+        "strict": true
+    },
+    "files": [
+        "src/app.ts",
+    ]
+}
